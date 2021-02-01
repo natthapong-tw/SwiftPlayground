@@ -15,6 +15,7 @@
 		96C8E2ED25C808E800C67481 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 96C8E2EB25C808E800C67481 /* LaunchScreen.storyboard */; };
 		96C8E2F825C808E800C67481 /* SwiftPlaygroundTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96C8E2F725C808E800C67481 /* SwiftPlaygroundTests.swift */; };
 		96C8E30325C808E800C67481 /* SwiftPlaygroundUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96C8E30225C808E800C67481 /* SwiftPlaygroundUITests.swift */; };
+		96C8E31125C80A5C00C67481 /* MemoryManagementTutorial.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96C8E31025C80A5C00C67481 /* MemoryManagementTutorial.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		96C8E2FE25C808E800C67481 /* SwiftPlaygroundUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftPlaygroundUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		96C8E30225C808E800C67481 /* SwiftPlaygroundUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftPlaygroundUITests.swift; sourceTree = "<group>"; };
 		96C8E30425C808E800C67481 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		96C8E31025C80A5C00C67481 /* MemoryManagementTutorial.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemoryManagementTutorial.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -121,6 +123,7 @@
 		96C8E2F625C808E800C67481 /* SwiftPlaygroundTests */ = {
 			isa = PBXGroup;
 			children = (
+				96C8E31025C80A5C00C67481 /* MemoryManagementTutorial.swift */,
 				96C8E2F725C808E800C67481 /* SwiftPlaygroundTests.swift */,
 				96C8E2F925C808E800C67481 /* Info.plist */,
 			);
@@ -278,6 +281,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				96C8E2F825C808E800C67481 /* SwiftPlaygroundTests.swift in Sources */,
+				96C8E31125C80A5C00C67481 /* MemoryManagementTutorial.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
